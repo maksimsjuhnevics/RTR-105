@@ -100,3 +100,44 @@ Datormaciba(pamatkurss) eletroniska klade
    86  rm -r EFG/
    87  ls -lt
    88  history
+1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  history
+    5  ls
+    6  where is ls
+    7  whereis ls
+    8  ls -l /bin/ls
+    9  cat /bin/ls
+   10  whereis ls
+   11  echo $PATH
+   12  ls bin
+   13  ls /bin
+   14  ls -l /bin
+   15  pwd
+   16  ls -lt
+   17  nano my_first_shell_script.sh
+   18  pwd
+   19  echo $PATH
+   20  pwd
+   21  ls -l
+   22  pwd
+   23  echo $PATH
+   24  PATH=$PATH:-
+   25  echo $PATH
+   26  ls
+   27  ls -l
+   28  ls
+   29  /bin/ls
+   30  /home/use/my_first_shell_script.sh
+   31  /home/user/my_first_shell_script.sh
+   32  chmod 754 my_first_shellscript.sh
+   33  chmos 754 my_first_shell_script.sh
+   34  chmod 754 my_first_shell_script.sh
+   35  ls -lt
+   36  ls ABC/
+   37  cat my_first_shell_script
+   38  cat my_first_shell_script.sh
+   39  gro
+   40  groups
+   41  history
